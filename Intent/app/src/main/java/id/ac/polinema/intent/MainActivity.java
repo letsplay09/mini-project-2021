@@ -28,4 +28,10 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }
 
+    public void handleBundle(View view) {
+
+    }
+
+    public void handleParcelable(View view) {
+    }
 }
