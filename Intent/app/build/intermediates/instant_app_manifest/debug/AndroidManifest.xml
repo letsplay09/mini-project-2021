@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.ac.polinema.intent"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="id.ac.polinema.intent.ProfileParcelableActivity" />
+        <activity android:name="id.ac.polinema.intent.BundleActivity" />
+        <activity android:name="id.ac.polinema.intent.ProfileBundleActivity" />
+        <activity android:name="id.ac.polinema.intent.ParcelableActivity" />
+        <activity android:name="id.ac.polinema.intent.ImplicitIntentActivity" />
+        <activity android:name="id.ac.polinema.intent.ExplicitIntentActivity" />
+        <activity android:name="id.ac.polinema.intent.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
