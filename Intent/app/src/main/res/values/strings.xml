@@ -14,6 +14,6 @@
     <string name="username">Username</string>
     <string name="android_bundle">Android Bundle</string>
     <string name="age">Age</string>
-    <string name="age_hint">Input your age</string>
-    <string name="exit">Exit</string>
+    <string name="hintage">Input your age</string>
+    <string name="keluar">keluar</string>
 </resources>
