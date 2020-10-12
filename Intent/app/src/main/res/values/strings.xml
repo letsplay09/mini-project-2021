@@ -10,10 +10,12 @@
     <string name="password_hint">Input your password</string>
     <string name="parcelable">Parcelable</string>
     <string name="profile">Profile</string>
+    <string name="myname">my name is Hernanda Candra </string>
     <string name="username_hint">Input your username</string>
     <string name="username">Username</string>
     <string name="android_bundle">Android Bundle</string>
     <string name="age">Age</string>
     <string name="hintage">Input your age</string>
     <string name="keluar">keluar</string>
+    <string name="campus">POLINEMA</string>
 </resources>
