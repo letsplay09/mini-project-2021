@@ -37,6 +37,7 @@
       <br>
       <h2>TITLE 2</h2>
       <p>Lorem ipsum</p>
+      <h2>Paul Ipsum</h2>
     </div>
     
     <aside class="sidebar">
