@@ -24,6 +24,7 @@
       <li class="utama"><a href="/web">Beranda</a></li>
       <li class="utama"><a href="index.php?web=form">Input Data</a></li>
       <li class="utama"><a href="index.php?web=view">Lihat Data</a></li>
+      <li class="utama"><a href="index.php?web=view">Info</a></li>
       <li class="utama logout"><a href="#">Logout</a></li>
     </ul>
   </nav>
