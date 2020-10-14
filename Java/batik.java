@@ -8,13 +8,13 @@ class batik
 
 		double sblm_diskon, jmlh_diskon, ssdh_diskon, x;
 
-		System.out.println("Masukkan panjang kain batik yang dibeli (dalam satuan meter) : ");
+		System.out.println("Masukkan panjang kain batik: ");
 		x = sc.nextDouble();
 
 		System.out.println("");
 
 		sblm_diskon = x * 50000;
-		System.out.println("Harga kain batik sebelum diskon :" + sblm_diskon);
+		System.out.println("Harga sebelum diskon :" + sblm_diskon);
 
 		if(sblm_diskon > 50000)
 		{
