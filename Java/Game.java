@@ -19,8 +19,8 @@ class Game
 		int n=sc.nextInt();
 		String[] bil = new String [2];
 
-		bil[0]= "\nPermainan Segera Dimulai\n";
-		bil[1]= "\nTerimakasih Telah Masuk dalam Permainan :)";
+		bil[0]= "\n Permainan Segera Dimulai\n";
+		bil[1]= "\n Terimakasih Telah Masuk dalam Permainan :)";
 		
 		if(n==1)
 		{
