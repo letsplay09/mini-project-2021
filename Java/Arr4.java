@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+name wildan
 class Arr4
 {
 	public static void main(String args[])
